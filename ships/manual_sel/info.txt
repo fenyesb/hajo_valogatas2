@@ -1,0 +1,4 @@
+land: 52 (2.6%), with ship: 0 (0%)
+mixed: 152 (7.6%), with ship: 78 (51.3%)
+water: 1796 (89.8%), with ship: 210 (11.7%)
+total: 2000 (100%), with ship: 278 (13.9%)
